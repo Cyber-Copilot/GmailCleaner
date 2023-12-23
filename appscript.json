@@ -1,0 +1,19 @@
+{
+ "oauthScopes": [
+   "https://mail.google.com/",
+   "https://www.googleapis.com/auth/gmail.readonly",
+   "https://www.googleapis.com/auth/gmail.modify"
+ ],
+ "timeZone": "America/New_York",
+ "dependencies": {
+   "enabledAdvancedServices": [
+     {
+       "userSymbol": "Gmail",
+       "version": "v1",
+       "serviceId": "gmail"
+     }
+   ]
+ },
+ "exceptionLogging": "STACKDRIVER",
+ "runtimeVersion": "V8"
+}
