@@ -1,6 +1,6 @@
 # Gmail Cleaner
 
-Cleanup your personal Gmail using a [Google App Scripts](https://script.google.com).
+Cleanup your personal Gmail using [Google App Scripts](https://script.google.com).
 
 ![GMail Garbage Cleaner](assets/GC.png)
 
